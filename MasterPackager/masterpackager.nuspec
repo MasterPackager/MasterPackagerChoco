@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>masterpackager</id>
+    <version>19.3.1</version>
+    <owners>MasterPackager Ltd.</owners>
+    <title>Master Packager</title>
+    <authors>Master Packager Ltd.</authors>
+    <projectUrl>https://www.masterpackager.com</projectUrl>
+    <iconUrl>https://www.masterpackager.com/uploads/file_archive/128.png</iconUrl>
+    <copyright>2019 Master Packager Ltd.</copyright>
+    <docsUrl>https://www.masterpackager.com/features</docsUrl>
+    <tags>masterpackager masterrepackager packaging repackaging msi mst responsetransform buildmsi</tags>
+	<releaseNotes>https://www.masterpackager.com/support/release-notes</releaseNotes>
+	<summary>Master Packager is a tool to create and edit Microsoft Windows Installer (MSI) files and repackage other installation to MSI format.</summary>
+    <description>Master Packager is a tool to create and edit Microsoft Windows Installer (MSI) files and repackage other installation to MSI format.
+
+Our vision is to make application packaging easy, fast and affordable that is accessible to everyone from application packager freelancer, small company and enterprises.
+
+### What are the benefits of using Master Packager?
+
+ * Fast - You will never see "not responding" text in the tool. Modifying large MSIs is effortless. The same goes for repackaging
+ * High quality - Standardize naming, ICE validation, and .dll/.exe file registration mapping are just a few examples of how this tool will reduce human errors and increases quality. 
+ * Simple - The user interface allow new and experience packagers to start creating packages immediately
+ * Automation - Capturing, building and applying templates can be fully automated, making it possible to fully automate repackaging.
+ * Free - Features you need to edit and create MSI and MST files are for Free.
+ * Price - We are doing everything to provide the best Price vs. Performance. Providing the same value or better Master Packager can save you money as it can be up 22 times less expensive per license than alternatives.
+ * Collaborative - With one click from the tool you can register a bug or make a feature suggestion.
+ * Support -  We will worry about the tools for you, so you can focus only on the packaging
+
+ See all of the features [here](https://www.masterpackager.com/features)</description>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
