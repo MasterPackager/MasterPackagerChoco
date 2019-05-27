@@ -7,9 +7,11 @@
     <title>Master Packager</title>
     <authors>Master Packager Ltd.</authors>
     <projectUrl>https://www.masterpackager.com</projectUrl>
-    <iconUrl>https://www.masterpackager.com/uploads/file_archive/128.png</iconUrl>
+    <iconUrl>https://rawcdn.githack.com/MasterPackager/MasterPackagerChoco/e47a0dffd7e32e1018d1207b98ec7faa3dac97df/MasterPackager/tools/128.png</iconUrl>
     <copyright>2019 Master Packager Ltd.</copyright>
     <docsUrl>https://www.masterpackager.com/features</docsUrl>
+	<licenseUrl>https://www.masterpackager.com/eula</licenseUrl>
+	<requireLicenseAcceptance>true</requireLicenseAcceptance>
     <tags>masterpackager masterrepackager packaging repackaging msi mst responsetransform buildmsi</tags>
 	<releaseNotes>https://www.masterpackager.com/support/release-notes</releaseNotes>
 	<summary>Master Packager is a tool to create and edit Microsoft Windows Installer (MSI) files and repackage other installation to MSI format.</summary>

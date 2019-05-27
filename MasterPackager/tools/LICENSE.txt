@@ -1,0 +1,90 @@
+Introduction
+Thank You for choosing Master Packager software (“Master Packager”, “we”, “us”, “our”). By signing up or otherwise using the Master Packager websites, and software or accessing any content or material that is made available by Master Packager through the software or website you are entering into a binding contract with the Master Packager entity indicated at the bottom of this document. 
+Your agreement with us includes these Terms and Conditions of Use (“Terms”) and our Privacy Policy. (The Terms, Privacy Policy, and any additional terms that you agree to, as discussed in the Entire Agreement section, are referred to together as the “Agreements”.) If you wish to review the terms of the Agreements, the effective version of the Agreements can be found on Master Packager’s website. You acknowledge that you have read and understood the Agreements, accept these Agreements, and agree to be bound by them. If you don’t agree with (or cannot comply with) the Agreements, then you may not use the Master Packager or consume any Content.
+Please read the Agreements carefully. They cover important information about any charges, taxes, and fees we bill you. The Agreements include information about future changes to the Agreements, limitations of liability, privacy information, and resolution of disputes by arbitration instead of in court.
+
+Changes to the Agreements
+Occasionally we may, in our discretion, make changes to the Agreements. When we make material changes to the Agreements, we’ll provide you with prominent notice as appropriate under the circumstances, e.g., by sending you an email. If you do not wish to continue using the Master Packager software under the new version of the Agreements, you may terminate the Agreements by contacting us.
+
+Ownership
+Master Packager and its source code are proprietary products of Master Packager Ltd. and are protected by copyright and other intellectual property laws. The Software is licensed and not sold. You acquire only the right to use the Software and do not acquire any rights, express or implied, in the Software other than those specified in this License.
+
+Types of Licenses
+1.	Standard Edition
+This license type is available to download from Master Packager’s website at any time by anyone without registration. Standard Edition is free and includes basic MSI Editing functions of Master Packager software to enable packager to perform common packaging and MSI editing tasks. This version does not include Master Repackager software, that allows to capture system changes and place them into MSI file. Detailed function list for Standard Edition can be found in Master Packager’s website.
+
+2.	Professional Edition
+This paid license type is available to download from Master Packager’s website before creating Master Packager account by registering and buying the license. This license type includes full Master Packager software functions. This version includes Master Repackager software, that allows to capture system changes and place them into MSI file. Detailed Professional Edition license function list can be found in Master Packager’s website. 
+License is per-user. 
+Licensed user can install Software on unlimited machines, however licensed user is the only one who is allowed to use the software.
+
+3.	Trial License
+To evaluate the Software suitability for your requirements we provide 30-day trial per-user license for Standard and Professional Editions. This license type is available to download from Master Packager’s website before creating Master Packager account by registering. You may download and install the Software without purchasing the License. In any circumstance, you cannot NOT use the Software in your production environment anyhow, and/or as part of your service for commercial benefit or otherwise commercialize it.
+License is per-user. 
+Licensed user can install Software on unlimited machines, however licensed user is the only one who is allowed to use the software.
+
+Restrictions
+The following is not permitted for any reason whatsoever:
+The software is licensed, not sold. This agreement only gives you some rights to use the software.  Master Packager Ltd. reserves all other rights.  Unless applicable law gives you more rights despite this limitation, you may use the software only as expressly permitted in this agreement.  In doing so, you must comply with any technical limitations in the software that only allows you to use it in certain ways.   
+You may not:
+• disclose the results of any benchmark tests of the software to any third party without Master Packager Ltd. prior written approval;
+• work around any technical limitations in the software;
+• reverse engineer, decompile, modify or disassemble the software, except and only to the extent that applicable law expressly permits, despite this limitation;
+• make more copies of the software than specified in this agreement or allowed by applicable law, despite this limitation;
+• publish the software for others to copy;
+• rent, lease, sublicense or lend the software;
+• Remove any copyright, trademark, or other intellectual property notices contained on or provided through the Master Packager Ltd. and Master Packager;
+• Provide your password to any other person or using any other person’s username and password;
+• transfer the Software, any part of the Software or rights provided herein to any third party.
+
+Grant to Master Packager
+During any term of this Agreement, Companies that are our customer and use Professional Edition grants to Master Packager or Associate Company a non-transferable, non-exclusive, license to reproduce and display Company’s logos, trademarks, trade names and similar identifying material so that Master Packager or Associate Company may refer to Company as a user of the Software should Master Packager or Associate Company so desire, such as on the Master Packager website, in press releases and in other marketing materials.
+
+
+WARRANTY
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS, COPYRIGHT HOLDERS OR LICENSORS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE. 
+
+THE USER MUST ASSUME THE ENTIRE RISK OF USING THE SOFTWARE. Master Packager Ltd. ASSUMES NO LIABILITY FOR DAMAGES, DIRECT OR CONSEQUENTIAL, WHICH MAY RESULT FROM THE USE OF THE SOFTWARE, EVEN IF Master Packager Ltd. HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. ANY LIABILITY OF THE SELLER WILL BE LIMITED TO REFUND THE PURCHASE PRICE OF THE LICENSE UNDER WHICH THE SOFWARE IS USED.
+
+
+Privacy policy: What information do we collect?
+We collect and process bare minimum of your personal data to help us provide you the product and services you request.
+We collect information you provide when you register on our site:
+
+* Name and Surname
+* Company Name, Registration number, Adress and Vat number
+* Email address
+* Cookies in masterpackager.com website
+
+Privacy policy: How do we use your information?
+We use collected information to:
+* Provide and maintain our services and product to our customers
+* Provide customer care and support
+* Provide analysis or valuable information so that we can improve the Service
+* Monitor the usage of the website
+* For license validation
+* Time to time send you special offers, latest our service or product updates or our Privacy Policy changes, but not limited to, unless you choose to unsubscribe of receiving such emails.
+
+Privacy policy: How we protect your information?
+We protect the security of your information during transmission by using Secure Sockets Layer (SSL) which encrypts information you input.
+We do not show, sell or rent any of your provided information to third-parties.
+
+Privacy policy: What about changes to this Privacy Policy?
+We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page.
+We will let you know via email and/or a prominent notice on our Service, prior to the change becoming effective and update the "effective date" at the top of this Privacy Policy.
+You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.
+
+
+Contact Us
+If you have any questions about this Privacy Policy or you want to us to delete all your data that we are collected please contact us: info@masterpackager.com
+
+
+License period
+This License is effective until terminated. You may terminate it at any time by destroying the Software, together with all copies thereof. This License will also terminate if you fail to comply with any term or condition of this Agreement. Upon such termination, you agree to destroy the Software, together with all copies thereof.
+Copyright © 2019 Master Packager Ltd.
