@@ -9,6 +9,7 @@
     <projectUrl>https://www.masterpackager.com</projectUrl>
     <iconUrl>https://rawcdn.githack.com/MasterPackager/MasterPackagerChoco/e47a0dffd7e32e1018d1207b98ec7faa3dac97df/MasterPackager/tools/128.png</iconUrl>
     <copyright>2019 Master Packager Ltd.</copyright>
+	<projectSourceUrl>https://github.com/MasterPackager/MasterPackagerChoco</projectSourceUrl>
     <docsUrl>https://www.masterpackager.com/features</docsUrl>
 	<licenseUrl>https://www.masterpackager.com/eula</licenseUrl>
 	<requireLicenseAcceptance>true</requireLicenseAcceptance>
