@@ -2,12 +2,12 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
   <metadata>
     <id>masterpackager</id>
-    <version>19.3.1</version>
+    <version>19.4.1</version>
     <owners>MasterPackager Ltd.</owners>
     <title>Master Packager</title>
     <authors>Master Packager Ltd.</authors>
     <projectUrl>https://www.masterpackager.com</projectUrl>
-    <iconUrl>https://rawcdn.githack.com/MasterPackager/MasterPackagerChoco/e47a0dffd7e32e1018d1207b98ec7faa3dac97df/MasterPackager/128.png</iconUrl>
+    <iconUrl>https://rawcdn.githack.com/MasterPackager/MasterPackagerChoco/e47a0dffd7e32e1018d1207b98ec7faa3dac97df/MasterPackager/tools/128.png</iconUrl>
     <copyright>2019 Master Packager Ltd.</copyright>
 	<packageSourceUrl>https://github.com/MasterPackager/MasterPackagerChoco</packageSourceUrl>
     <docsUrl>https://www.masterpackager.com/features</docsUrl>
